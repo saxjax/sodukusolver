@@ -37,5 +37,17 @@
   },
   "devDependencies": {
     "prettier": "2.4.1"
-  }
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saxjax/sodukusolver.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saxjax/sodukusolver/issues"
+  },
+  "homepage": "https://github.com/saxjax/sodukusolver#readme"
 }

@@ -1,0 +1,2 @@
+# sodukusolver
+Practicing Machine learning
